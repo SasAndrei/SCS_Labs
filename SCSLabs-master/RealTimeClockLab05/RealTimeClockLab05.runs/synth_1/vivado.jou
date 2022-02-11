@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4
+# SW Build 1071353 on Tue Nov 18 18:06:20 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Wed Oct 30 08:48:38 2019
+# Process ID: 6448
+# Log file: C:/Users/student/Desktop/temp/RealTimeClockLab05/RealTimeClockLab05.runs/synth_1/counter.vds
+# Journal file: C:/Users/student/Desktop/temp/RealTimeClockLab05/RealTimeClockLab05.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source counter.tcl

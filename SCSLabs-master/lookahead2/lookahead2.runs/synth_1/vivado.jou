@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4
+# SW Build 1071353 on Tue Nov 18 18:06:20 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Tue Oct 22 08:57:33 2019
+# Process ID: 1324
+# Log file: C:/Users/student/lookahead2/lookahead2.runs/synth_1/main.vds
+# Journal file: C:/Users/student/lookahead2/lookahead2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source main.tcl

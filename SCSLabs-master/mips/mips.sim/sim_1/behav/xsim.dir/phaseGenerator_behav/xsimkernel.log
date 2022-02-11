@@ -1,0 +1,7 @@
+Running: xsim.dir/phaseGenerator_behav/xsimk.exe -simmode gui -wdb phaseGenerator_behav.wdb -simrunnum 0 -socket 49820
+Design successfully loaded
+Design Loading Memory Usage: 13484 KB (Peak: 13484 KB)
+Design Loading CPU Usage: 155 ms
+Simulation completed
+Simulation Memory Usage: 21724 KB (Peak: 21724 KB)
+Simulation CPU Usage: 4056 ms

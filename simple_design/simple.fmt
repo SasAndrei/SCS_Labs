@@ -1,0 +1,3 @@
+start: INPUT s0, 00
+       OUTPUT s0, 80
+       JUMP start

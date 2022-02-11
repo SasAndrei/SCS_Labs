@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sun Dec 12 14:13:12 2021
+# Process ID: 8540
+# Current directory: D:/Universitate/An 3/SCS/SCSLabs-master/mips
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8320 D:\Universitate\An 3\SCS\SCSLabs-master\mips\mips.xpr
+# Log file: D:/Universitate/An 3/SCS/SCSLabs-master/mips/vivado.log
+# Journal file: D:/Universitate/An 3/SCS/SCSLabs-master/mips\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Universitate/An 3/SCS/SCSLabs-master/mips/mips.xpr}
+upgrade_project -migrate_output_products
+update_compile_order -fileset sources_1

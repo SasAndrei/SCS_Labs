@@ -1,0 +1,18 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/imports/multi-cycle/alu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'alu'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/imports/multi-cycle/controlUnit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlUnit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/imports/multi-cycle/ir.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ir'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/imports/multi-cycle/main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'main'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/imports/multi-cycle/memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memory'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/imports/multi-cycle/phase_generator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'phase_generator'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/imports/multi-cycle/regfile.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'regfile'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/imports/multi-cycle/tempreg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tempreg'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/An 3/SCS/SCS-master/mips/mips.srcs/sources_1/new/test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test'

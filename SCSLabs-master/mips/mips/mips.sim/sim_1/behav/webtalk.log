@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4
+# SW Build 1071353 on Tue Nov 18 18:06:20 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Wed Nov 27 09:02:40 2019
+# Process ID: 1148
+# Log file: C:/Users/student/Desktop/Lab6VP/mips/mips.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/student/Desktop/Lab6VP/mips/mips.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/student/Desktop/Lab6VP/mips/mips.sim/sim_1/behav/xsim.dir/main_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:12 . Memory (MB): peak = 58.359 ; gain = 0.051
+
+    while executing
+"webtalk_transmit -clientid 2544453996 -regid "210690077_0_0_375" -xml C:/Users/student/Desktop/Lab6VP/mips/mips.sim/sim_1/behav/xsim.dir/main_behav/we..."
+    (file "C:/Users/student/Desktop/Lab6VP/mips/mips.sim/sim_1/behav/xsim.dir/main_behav/webtalk/xsim_webtalk.tcl" line 41)
+INFO: [Common 17-206] Exiting Webtalk at Wed Nov 27 09:02:52 2019...

@@ -1,0 +1,12 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx2/Vivado/2014.4/bin/unwrapped/win32.o/xelab.exe -wto 85cf275e8c944bd8b9bf8c8bd6896f6f --debug typical --relax -L xil_defaultlib -L secureip --snapshot phaseGenerator_behav xil_defaultlib.phaseGenerator -log elaborate.log 
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.phasegenerator
+Built simulation snapshot phaseGenerator_behav

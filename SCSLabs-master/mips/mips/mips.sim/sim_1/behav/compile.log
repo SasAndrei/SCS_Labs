@@ -1,0 +1,15 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/student/Desktop/Lab6VP/mips/mips.srcs/sources_1/new/ProcMem_definitions.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/student/Desktop/Lab6VP/mips/mips.srcs/sources_1/new/regfile.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity regfile
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/student/Desktop/Lab6VP/mips/mips.srcs/sources_1/new/phaseGenerator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity phaseGenerator
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/student/Desktop/Lab6VP/mips/mips.srcs/sources_1/new/pc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity pc
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/student/Desktop/Lab6VP/mips/mips.srcs/sources_1/new/instreg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity instreg
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/student/Desktop/Lab6VP/mips/mips.srcs/sources_1/new/controlUnit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity controlUnit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/student/Desktop/Lab6VP/mips/mips.srcs/sources_1/new/alu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity alu
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/student/Desktop/Lab6VP/mips/mips.srcs/sources_1/new/main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity main
